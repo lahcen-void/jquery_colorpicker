@@ -1,5 +1,5 @@
 {
-  "name": "voidagency/jquery_colorpicker",
+  "name": "lahcen-void/jquery_colorpicker",
   "description": "A Drupal integration with the jQuery Colorpicker (https://www.eyecon.ro/colorpicker) module",
   "type": "drupal-module",
   "homepage": "https://drupal.org/project/jquery_colorpicker",
@@ -13,6 +13,6 @@
     "drupal/core": "^9.3 || ^10 || ^11",
     "jaypan/jquery-colorpicker": "~1.0.1",
     "drupal/vendor_stream_wrapper": "^2.0.2",
-    "drupal/colorapi": "^1.1"
+    "drupal/colorapi": "^2.1"
   }
 }
